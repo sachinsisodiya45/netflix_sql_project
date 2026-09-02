@@ -1,5 +1,4 @@
 -- 15 Business Problems & Solutions
-
 1. Count the number of Movies vs TV Shows
 2. Find the most common rating for movies and TV shows
 3. List all movies released in a specific year (e.g., 2020)
@@ -19,11 +18,3 @@ return top 5 year with highest avg content release!
 Categorize the content based on the presence of the keywords 'kill' and 'violence' in 
 the description field. Label content containing these keywords as 'Bad' and all other 
 content as 'Good'. Count how many items fall into each category.
-
-
-
-
-
-
-
-
